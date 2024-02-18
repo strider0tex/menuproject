@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 .idea
+menu_project/db.sqlite3
+.
